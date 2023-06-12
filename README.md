@@ -20,14 +20,18 @@ nano r1t.py
 # How Create A Bot in Telegram?
 https://www.youtube.com/watch?v=aNmRNjME6mE
 
+
 # How make a python file to exe file?
 ```
 just use this in windows 
 ```
 pip install pyinstaller
+
 pyinstaller --onefile [file-name] --onefile
 
+
 + set a icon for exe file
+
 pyinstaller --onefile [file-name] -i [path of picture in your system] --onefile
 
 + create a exe file in dist folder . check it :)
